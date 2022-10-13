@@ -1,3 +1,3 @@
 #Study HTML-CSS-JS
 
-<h2>FULL MENU</h2>
+<h2>FULLSCREEN MENU</h2>
